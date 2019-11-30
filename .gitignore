@@ -1,0 +1,7 @@
+/target/
+/.settings/
+/.git/
+.classpath
+.project
+*.mp3
+*.mp4
